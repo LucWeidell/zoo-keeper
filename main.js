@@ -1,0 +1,54 @@
+import Alligator from "./models/Alligator.js";
+import Bear from "./models/Bear.js";
+import Camel from "./model/Camel.js";
+import Dolphin from "./model/Dolphin.js";
+import Elephant from "./model/Elephant.js";
+import Fish from "./model/Fish.js";
+import Hippo from "./model/Hippo.js";
+import Insect from "./model/Insect.js";
+import Jaguar from "./model/Jaguar.js";
+import Kitten from "./model/Kitten.js";
+import Lion from "./model/Lion.js";
+import Mouse from "./model/Mouse.js";
+import Narval from "./model/Narval.js";
+import Otter from "./model/Otter.js";
+import Penguin from "./model/Penguin.js";
+import Quail from "./model/Quail.js";
+import Rabbit from "./model/Rabbit.js";
+import Snake from "./model/Snake.js";
+import Tiger from "./model/Tiger.js";
+import Urchin from "./model/Urchin.js";
+import Viper from "./model/Viper.js";
+import Wolf from "./model/Wolf.js";
+import Xiphias from "./model/Xiphias.js";
+import Yak from "./model/Yak.js";
+import Zebra from "./model/Zebra.js";
+
+let ally = new Alligator("Ally", "Green", "F", 200, 60, "big");
+let ally1 = new Bear("Ally1", "Green", "F", 200, 60, "big");
+let ally2 = new Camel("Ally2", "Green", "F", 200, 60, "big");
+let ally3 = new Dolphin("Ally3", "Green", "F", 200, 60, "big");
+let ally4 = new Elephant("Ally4", "Green", "F", 200, 60, "big");
+let ally5 = new Fish("Ally5", "Green", "F", 200, 60, "big");
+let ally6 = new Hippo("Ally6", "Green", "F", 200, 60, "big");
+let ally7 = new Insect("Ally7", "Green", "F", 200, 60, "big");
+let ally8 = new Jaguar("Ally8", "Green", "F", 200, 60, "big");
+let ally9 = new Kitten("Ally9", "Green", "F", 200, 60, "big");
+let ally10 = new Lion("Ally10", "Green", "F", 200, 60, "big");
+let ally11= new Mouse("Ally11", "Green", "F", 200, 60, "big");
+let ally12 = new Narval("Ally12", "Green", "F", 200, 60, "big");
+let ally13 = new Otter("Ally13", "Green", "F", 200, 60, "big");
+let ally14 = new Penguin("Ally14", "Green", "F", 200, 60, "big");
+let ally15 = new Quail("Ally15", "Green", "F", 200, 60, "big");
+let ally16 = new Rabbit("Ally16", "Green", "F", 200, 60, "big");
+let ally17 = new Snake("Ally17", "Green", "F", 200, 60, "big");
+let ally18 = new Tiger("Ally18", "Green", "F", 200, 60, "big");
+let ally19 = new Urchin("Ally19", "Green", "F", 200, 60, "big");
+let ally20 = new Viper("Ally20", "Green", "F", 200, 60, "big");
+let ally21 = new Wolf("Ally21", "Green", "F", 200, 60, "big");
+let ally22 = new Yak("Ally22", "Green", "F", 200, 60, "big");
+let ally23 = new Xiphias("Ally23", "Green", "F", 200, 60, "big");
+let ally24 = new Zebra("Ally23", "Green", "F", 200, 60, "big");
+
+
+
